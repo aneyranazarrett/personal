@@ -10,19 +10,21 @@ redirect_from:
 <style>
 .grid-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* antes 220px */
+  grid-template-columns: repeat(2, 1fr); /* exactamente 2 columnas */
   gap: 10px;
+  justify-items: center;
   margin-bottom: 2em;
 }
+
 .grid-gallery img {
-  width: 100%;
-  max-width: 180px; /* opcional: asegura que no crezcan mucho */
-  height: auto;
-  border-radius: 6px;
+  width: 140px;       /* tamaño fijo */
+  height: 140px;      /* cuadrado */
   object-fit: cover;
-  margin: 0 auto; /* centra la imagen en su columna */
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* opcional: sombra ligera */
 }
 </style>
+
 
 
 ## Andrea
