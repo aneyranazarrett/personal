@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my CV [here](https://aneyranazarrett.github.io/andreaneyra//files/cv_andrea_neyra.pdf)
+#You can find my CV [here](https://aneyranazarrett.github.io/andreaneyra//files/cv_andrea_neyra.pdf)
 
 Education
 ======
