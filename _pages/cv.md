@@ -1,4 +1,4 @@
---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,63 +8,60 @@ redirect_from:
 ---
 
 {% include base_path %}
-#You can find my CV [here](https://aneyranazarrett.github.io/andreaneyra//files/cv_andrea_neyra.pdf)
 
-Education
-======
-* Ph.D. in Political Economy and Government (Economics Track), Harvard University , 2027 (expected)
-* Master in Public Policy, Harvard Kennedy School of Government — Fulbright-García Robles Scholar , 2021
-* B.A. in Economics, Instituto Tecnológico Autónomo de México (ITAM) — Graduated with Highest Honors,2018
+You can download my full CV [here (PDF)](https://aneyranazarrett.github.io/andreaneyra//files/cv_andrea_neyra.pdf)
 
-Work and Research Experience
-======
-* Research Assistant, Macroeconomics and Growth Team, World Bank  
-* Research Assistant, Fiscal and Municipal Management Division, Inter-American Development Bank (IADB)  
+## Education
 
-Research Projects
-======
+- Ph.D. in Political Economy and Government (Economics Track), Harvard University (expected 2027)  
+- Master in Public Policy, Harvard Kennedy School — Fulbright-García Robles Scholar (2021)  
+- B.A. in Economics, Instituto Tecnológico Autónomo de México (ITAM) — Graduated with Highest Honors (2018)
 
-*Training Within Firms
-Brayan Diaz, Andrea Neyra-Nazarrett, Julian Ramirez, Raffaella Sadun, Jorge Tamayo
-This paper explores the organizational frictions that hinder training implementation within firms, focusing on the role of middle managers. Using administrative data from three large Latin American firms—a car manufacturer, a quick-service restaurant chain, and a retailer—the study finds that middle managers who actively promote employee well-being and development significantly boost training participation. These managers also foster improved team performance and reduce absenteeism, particularly during organizational change. The paper uses manager rotation and event study designs to show that the arrival of a “High Training” manager increases training take-up by up to 60%, enhances resilience to demand shocks, and improves HR outcomes like promotions and retention. A stylized model illustrates how middle managers influence training-related labor supply responses. The findings underscore the need to embed managerial behavior into the design and success of workforce development policies.
-https://www.hbs.edu/ris/Publication%20Files/25-045_1c5a1d13-a61d-41d2-b8b4-2e5971ea23e0.pdf
+## Work and Research Experience
 
-*An Anatomy of Managerial Attention: Evidence from Retail
-Achyuta Adhvaryu, Parker Howell, Andrea Neyra-Nazarrett, Anant Nyshadham, Jorge Tamayo
-This study examines how managers' ability to navigate complexity affects firm performance, leveraging administrative data and manager rotations in a large Colombian retailer. High-performing managers—identified through an AKM model—improve store outcomes by reducing stockouts, lowering inventory levels, simplifying product assortments, and executing better pricing decisions. These managers also reorganize staff by increasing hiring and retention in sales, pricing, and inventory (SPI) departments. Survey data reveal that effective managers are more focused on inventory logistics and pricing strategies, highlighting their ability to allocate attention efficiently in complex environments. The paper contributes to the literature on managerial fixed effects, complexity management, and organizational design.
+- Research Assistant, Macroeconomics and Growth Team, World Bank  
+- Research Assistant, Fiscal and Municipal Management Division, Inter-American Development Bank (IADB)
 
-*VAT Holidays as Short-Term Economic Stimuli: The Case of Colombia’s “Días sin IVA”
-José Martinez-Carrasco, David Muñoz, Andrea Neyra-Nazarrett, Alejandro Rasteletti, Diego Zamora
-This paper evaluates Colombia’s “Días sin IVA” (DSI), a series of VAT holidays held between 2020–2022 to stimulate economic activity during and after the COVID-19 pandemic. Using 1.3 billion transactions from Bancolombia and a repeated regression discontinuity design, the authors find that DSI increased store-level sales by 14% overall—even after accounting for intertemporal substitution. Both covered and uncovered sectors benefited, with electronics seeing the largest gains. Sales growth was strongest in stores serving lower-income consumers. The findings suggest DSI was effective in stimulating short-term consumption and provide evidence on the spillover effects of broad-based tax holidays in a developing economy context.
+## Research Projects
 
-Teaching
-======
-* Teaching Fellow, Survey Research Methods, Harvard University  
-* Teaching Fellow, Advanced Quantitative Methods for the Social Sciences, Harvard University  
-* Teaching Fellow, Economics of Discontinuous Change, Harvard University  
-* Tutor, Quantitative and Qualitative Methods, Harvard Kennedy School  
-* Teaching Fellow, Environmental Politics: Negotiation, Persuasion, and Leadership (IGA-455), Harvard Kennedy School  
-* Teaching Fellow, The Politics of Development (DPI-410), Harvard Kennedy School  
-* Teaching Fellow, Public Finance in the International Perspective (DEV-215), Harvard Kennedy School  
-* Teaching Fellow, Advanced Markets and Market Failure (API-101Z), Harvard Kennedy School  
+### [Training Within Firms](https://www.hbs.edu/ris/Publication%20Files/25-045_1c5a1d13-a61d-41d2-b8b4-2e5971ea23e0.pdf)  
+*Brayan Diaz, Andrea Neyra-Nazarrett, Julian Ramirez, Raffaella Sadun, Jorge Tamayo*  
+This paper explores the organizational frictions that hinder training implementation within firms, focusing on the role of middle managers. Using data from three large Latin American firms—a car manufacturer, a quick-service restaurant chain, and a retailer—we show that middle managers who promote employee development boost training take-up and improve performance. Managerial rotations and event study methods reveal that “High Training” managers increase participation by up to 60%. The findings underscore the importance of embedding managerial behavior into human capital policy design.
 
-Grants, Fellowships, and Honors
-======
-* The Kenneth C. Griffin Economics Research Fund  
-* Colombia Economics of Education and Climate Change Research Fund  
-* DRCLAS Summer Fellowship  
-* Mildred Rendl PhD 1954 Graduate Student Fellow  
-* Fulbright-García Robles Scholarship  
-* Harvard Ash Center Research Project Fellowship  
-* Harvard Kennedy School Summer Research Fellowship  
-* Comecyt Talent and Excellence Scholarship  
-* Comecyt “Posgrado en el Extranjero” Scholarship  
-* Conacyt-FUNED Scholarship  
-* Dionisio Medina Harvard Scholarship  
+### An Anatomy of Managerial Attention: Evidence from Retail  
+*Achyuta Adhvaryu, Parker Howell, Andrea Neyra-Nazarrett, Anant Nyshadham, Jorge Tamayo*  
+This study examines how managerial attention to complexity drives productivity in a large Colombian retail firm. High-performing managers reduce stockouts, streamline inventory, simplify product assortments, and improve pricing. Manager arrival leads to staffing changes toward sales, pricing, and inventory roles. Using AKM fixed effects and survey data, we document specific behavioral and organizational responses that explain performance variation in complex operational settings.
 
-Conferences Organized
-======
-* Co-Chair, The Mexico Conference, Harvard Kennedy School (2021)  
-* Co-Organizer, The Mexico Conference, Harvard Kennedy School (2020)  
+### VAT Holidays as Short-Term Economic Stimuli: The Case of Colombia’s “Días sin IVA”  
+*José Martinez-Carrasco, David Muñoz, Andrea Neyra-Nazarrett, Alejandro Rasteletti, Diego Zamora*  
+We evaluate Colombia’s VAT holiday policy (2020–2022) using 1.3 billion Bancolombia transactions. A repeated regression discontinuity design finds a 14% increase in sales during DSI events, with durable goods like electronics experiencing the highest gains. Effects are strongest among stores serving low-income consumers. Results highlight the stimulus potential of well-designed, broad-based tax holidays in emerging economies.
 
- 
+## Teaching
+
+- Teaching Fellow, Survey Research Methods, Harvard University  
+- Teaching Fellow, Advanced Quantitative Methods for the Social Sciences, Harvard University  
+- Teaching Fellow, Economics of Discontinuous Change, Harvard University  
+- Tutor, Quantitative and Qualitative Methods, Harvard Kennedy School  
+- Course Coach, Environmental Politics: Negotiation, Persuasion, and Leadership (IGA-455), Harvard Kennedy School  
+- Teaching Fellow, The Politics of Development (DPI-410), Harvard Kennedy School  
+- Teaching Fellow, Public Finance in the International Perspective (DEV-215), Harvard Kennedy School  
+- Teaching Assistant, Advanced Markets and Market Failure (API-101Z), Harvard Kennedy School  
+
+## Grants, Fellowships, and Honors
+
+- The Kenneth C. Griffin Economics Research Fund  
+- Colombia Economics of Education and Climate Change Research Fund  
+- DRCLAS Summer Fellowship  
+- Mildred Rendl PhD 1954 Graduate Student Fellow  
+- Fulbright-García Robles Scholarship  
+- Harvard Ash Center Research Project Fellowship  
+- Harvard Kennedy School Summer Research Fellowship  
+- Comecyt Talent and Excellence Scholarship  
+- Comecyt “Posgrado en el Extranjero” Scholarship  
+- Conacyt-FUNED Scholarship  
+- Dionisio Medina Harvard Scholarship  
+
+## Conferences Organized
+
+- Co-Chair, The Mexico Conference, Harvard Kennedy School (2021)  
+- Co-Organizer, The Mexico Conference, Harvard Kennedy School (2020)  
