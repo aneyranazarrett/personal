@@ -10,17 +10,20 @@ redirect_from:
 <style>
 .grid-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 15px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* antes 220px */
+  gap: 10px;
   margin-bottom: 2em;
 }
 .grid-gallery img {
   width: 100%;
+  max-width: 180px; /* opcional: asegura que no crezcan mucho */
   height: auto;
-  border-radius: 8px;
+  border-radius: 6px;
   object-fit: cover;
+  margin: 0 auto; /* centra la imagen en su columna */
 }
 </style>
+
 
 ## Andrea
 
