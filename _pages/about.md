@@ -17,8 +17,8 @@ redirect_from:
 }
 
 .grid-gallery img {
-  width: 100px; /* Ancho fijo para cada imagen */
-  height: 100px; /* Alto fijo para cada imagen, creando un cuadro */
+  width: 200px; /* Ancho fijo para cada imagen */
+  height: 200px; /* Alto fijo para cada imagen, creando un cuadro */
   object-fit: cover; /* Asegura que la imagen cubra el área sin distorsionarse */
   border-radius: 6px; /* Bordes redondeados */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Sombra ligera */
