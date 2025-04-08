@@ -1,4 +1,4 @@
----
+--
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,57 +8,63 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can find my CV [here](https://aneyranazarrett.github.io/andreaneyra//files/cv_andrea_neyra.pdf)
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Political Economy and Government (Economics Track), Harvard University , 2027 (expected)
+* Master in Public Policy, Harvard Kennedy School of Government — Fulbright-García Robles Scholar , 2021
+* B.A. in Economics, Instituto Tecnológico Autónomo de México (ITAM) — Graduated with Highest Honors,2018
 
-Work experience
+Work and Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Assistant, Macroeconomics and Growth Team, World Bank  
+* Research Assistant, Fiscal and Municipal Management Division, Inter-American Development Bank (IADB)  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Projects
+======
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Training Within Firms
+Brayan Diaz, Andrea Neyra-Nazarrett, Julian Ramirez, Raffaella Sadun, Jorge Tamayo
+This paper explores the organizational frictions that hinder training implementation within firms, focusing on the role of middle managers. Using administrative data from three large Latin American firms—a car manufacturer, a quick-service restaurant chain, and a retailer—the study finds that middle managers who actively promote employee well-being and development significantly boost training participation. These managers also foster improved team performance and reduce absenteeism, particularly during organizational change. The paper uses manager rotation and event study designs to show that the arrival of a “High Training” manager increases training take-up by up to 60%, enhances resilience to demand shocks, and improves HR outcomes like promotions and retention. A stylized model illustrates how middle managers influence training-related labor supply responses. The findings underscore the need to embed managerial behavior into the design and success of workforce development policies.
+https://www.hbs.edu/ris/Publication%20Files/25-045_1c5a1d13-a61d-41d2-b8b4-2e5971ea23e0.pdf
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+*An Anatomy of Managerial Attention: Evidence from Retail
+Achyuta Adhvaryu, Parker Howell, Andrea Neyra-Nazarrett, Anant Nyshadham, Jorge Tamayo
+This study examines how managers' ability to navigate complexity affects firm performance, leveraging administrative data and manager rotations in a large Colombian retailer. High-performing managers—identified through an AKM model—improve store outcomes by reducing stockouts, lowering inventory levels, simplifying product assortments, and executing better pricing decisions. These managers also reorganize staff by increasing hiring and retention in sales, pricing, and inventory (SPI) departments. Survey data reveal that effective managers are more focused on inventory logistics and pricing strategies, highlighting their ability to allocate attention efficiently in complex environments. The paper contributes to the literature on managerial fixed effects, complexity management, and organizational design.
+
+*VAT Holidays as Short-Term Economic Stimuli: The Case of Colombia’s “Días sin IVA”
+José Martinez-Carrasco, David Muñoz, Andrea Neyra-Nazarrett, Alejandro Rasteletti, Diego Zamora
+This paper evaluates Colombia’s “Días sin IVA” (DSI), a series of VAT holidays held between 2020–2022 to stimulate economic activity during and after the COVID-19 pandemic. Using 1.3 billion transactions from Bancolombia and a repeated regression discontinuity design, the authors find that DSI increased store-level sales by 14% overall—even after accounting for intertemporal substitution. Both covered and uncovered sectors benefited, with electronics seeing the largest gains. Sales growth was strongest in stores serving lower-income consumers. The findings suggest DSI was effective in stimulating short-term consumption and provide evidence on the spillover effects of broad-based tax holidays in a developing economy context.
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching Fellow, Survey Research Methods, Harvard University  
+* Teaching Fellow, Advanced Quantitative Methods for the Social Sciences, Harvard University  
+* Teaching Fellow, Economics of Discontinuous Change, Harvard University  
+* Tutor, Quantitative and Qualitative Methods, Harvard Kennedy School  
+* Teaching Fellow, Environmental Politics: Negotiation, Persuasion, and Leadership (IGA-455), Harvard Kennedy School  
+* Teaching Fellow, The Politics of Development (DPI-410), Harvard Kennedy School  
+* Teaching Fellow, Public Finance in the International Perspective (DEV-215), Harvard Kennedy School  
+* Teaching Fellow, Advanced Markets and Market Failure (API-101Z), Harvard Kennedy School  
+
+Grants, Fellowships, and Honors
 ======
-* Currently signed in to 43 different slack teams
+* The Kenneth C. Griffin Economics Research Fund  
+* Colombia Economics of Education and Climate Change Research Fund  
+* DRCLAS Summer Fellowship  
+* Mildred Rendl PhD 1954 Graduate Student Fellow  
+* Fulbright-García Robles Scholarship  
+* Harvard Ash Center Research Project Fellowship  
+* Harvard Kennedy School Summer Research Fellowship  
+* Comecyt Talent and Excellence Scholarship  
+* Comecyt “Posgrado en el Extranjero” Scholarship  
+* Conacyt-FUNED Scholarship  
+* Dionisio Medina Harvard Scholarship  
+
+Conferences Organized
+======
+* Co-Chair, The Mexico Conference, Harvard Kennedy School (2021)  
+* Co-Organizer, The Mexico Conference, Harvard Kennedy School (2020)  
+
+ 
