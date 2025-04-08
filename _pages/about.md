@@ -22,7 +22,7 @@ redirect_from:
 }
 </style>
 
-## About Me
+## Andrea
 
 I am a fourth-year PhD student in the Political Economy and Government program (Economics track) at Harvard University. I am broadly interested in personnel, labor, and public economics, with a particular interest in how organizations and governments shape labor productivity.
 
