@@ -1,35 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Andrea Neyra Nazarrett"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Andrea Neyra Nazarrett"
+description              : &description "About Me I am a fourth-year PhD student in the Political Economy and Government program (Economics track) at Harvard University. My research lies at the intersection of personnel, labor, and public economics, with a particular interest in how organizations and governments shape economic outcomes.I hold a Master in Public Policy (MPP) from the Harvard Kennedy School, where I was a Fulbright-García Robles Scholar, and a BA in Economics from ITAM (Instituto Tecnológico Autónomo de México). Prior to my doctoral studies, I worked as a research assistant at the World Bank and the Inter-American Development Bank"
+url                      : https://aneyranazarrett.github.io/personal/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : ""
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+author:
+  name             : "Andrea Neyra Nazarrett"
+  avatar           : "profile.jpg"
+  bio              : "PhD Student in Political Economy"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University"
+  uri              : 
+  email            : "aneyra@g.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
